@@ -1,0 +1,1 @@
+a:1:{i:0;a:5:{s:2:"id";s:13:"6533686237387";s:8:"username";s:6:"alemam";s:5:"email";s:20:"alemamsuvo@gmail.com";s:8:"password";s:60:"$2y$10$fVr0ZGTwasLrtlIWDqFHGeMigPX4gQ0MI2xXYe..3EBr06is4pjj6";s:4:"role";s:5:"admin";}}

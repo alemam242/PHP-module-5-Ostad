@@ -1,0 +1,2 @@
+admin, suvo, suvo@gmail.com, $2y$10$XFhMcJ7wHJcen2bJiYDcLO2nP63IJDPCDAz9y494bjSEN3KWiBAUK
+user, emam, emam@gmail.com, $2y$10$XFhMcJ7wHJcen2bJiYDcLO2nP63IJDPCDAz9y494bjSEN3KWiBAUK
